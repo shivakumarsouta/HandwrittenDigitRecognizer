@@ -15,7 +15,7 @@ A machine learning-based web app that predicts handwritten **digits (0–9)** fr
 ## 💠 Setup
 
 ```bash
-git clone https://github.com/shivkumars005/HandwrittenDigitRecognizer
+git clone https://github.com/shivakumarsouta/HandwrittenDigitRecognizer
 cd HandwrittenDigitRecognizer
 pip install -r requirements.txt
 ```
